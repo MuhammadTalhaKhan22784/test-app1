@@ -1,0 +1,50 @@
+{
+  "name": "testapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.6.2",
+    "history": "^5.0.0",
+    "material-table": "^1.69.0",
+    "primeicons": "^4.0.0",
+    "primereact": "^5.0.0-rc.1",
+    "react": "^16.13.1",
+    "react-data-menu": "^1.1.2",
+    "react-dom": "^16.13.1",
+    "react-full-screen": "^0.3.1",
+    "react-native-popup-menu": "^0.15.9",
+    "react-nested-menu": "^1.0.9",
+    "react-router-dom": "^6.0.0-beta.0",
+    "react-scripts": "3.4.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
